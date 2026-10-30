@@ -2,6 +2,8 @@
 
 My World of Warcraft interface for retail 12.1 (Midnight), mostly for healing and Mythic+ keys. A compact layout with one combat cluster under the character.
 
+![The interface in Silvermoon](screenshot.webp)
+
 ## Files
 
 | File | What it is |
